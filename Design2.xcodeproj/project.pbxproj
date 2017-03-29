@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7D72A6B61E8B6E21004E949D /* CabinSketch-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7D72A6B51E8B6E21004E949D /* CabinSketch-Bold.ttf */; };
 		7DDF4E941E86B75400BCAED6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DDF4E931E86B75400BCAED6 /* AppDelegate.swift */; };
 		7DDF4E961E86B75400BCAED6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DDF4E951E86B75400BCAED6 /* ViewController.swift */; };
 		7DDF4E991E86B75400BCAED6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7DDF4E971E86B75400BCAED6 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7D72A6B51E8B6E21004E949D /* CabinSketch-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CabinSketch-Bold.ttf"; sourceTree = "<group>"; };
 		7DDF4E901E86B75400BCAED6 /* Design2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Design2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7DDF4E931E86B75400BCAED6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7DDF4E951E86B75400BCAED6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				7DDF4E931E86B75400BCAED6 /* AppDelegate.swift */,
 				7DDF4E951E86B75400BCAED6 /* ViewController.swift */,
+				7D72A6B51E8B6E21004E949D /* CabinSketch-Bold.ttf */,
 				7DDF4E971E86B75400BCAED6 /* Main.storyboard */,
 				7DDF4E9A1E86B75400BCAED6 /* Assets.xcassets */,
 				7DDF4E9C1E86B75400BCAED6 /* LaunchScreen.storyboard */,
@@ -99,7 +102,7 @@
 				TargetAttributes = {
 					7DDF4E8F1E86B75400BCAED6 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 4SL936GBZY;
+						DevelopmentTeam = TKULDARGWQ;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -128,6 +131,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7DDF4E9E1E86B75400BCAED6 /* LaunchScreen.storyboard in Resources */,
+				7D72A6B61E8B6E21004E949D /* CabinSketch-Bold.ttf in Resources */,
 				7DDF4E9B1E86B75400BCAED6 /* Assets.xcassets in Resources */,
 				7DDF4E991E86B75400BCAED6 /* Main.storyboard in Resources */,
 			);
@@ -263,10 +267,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 4SL936GBZY;
+				DEVELOPMENT_TEAM = TKULDARGWQ;
 				INFOPLIST_FILE = Design2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = SEB.Design2;
+				PRODUCT_BUNDLE_IDENTIFIER = SEB3257.Design2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -276,10 +280,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 4SL936GBZY;
+				DEVELOPMENT_TEAM = TKULDARGWQ;
 				INFOPLIST_FILE = Design2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = SEB.Design2;
+				PRODUCT_BUNDLE_IDENTIFIER = SEB3257.Design2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -304,6 +308,7 @@
 				7DDF4EA41E86B75400BCAED6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
