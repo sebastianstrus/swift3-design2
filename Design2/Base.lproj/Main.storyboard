@@ -68,8 +68,8 @@
                                         <rect key="frame" x="0.0" y="0.0" width="375" height="605"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                     </imageView>
-                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="iphone" translatesAutoresizingMaskIntoConstraints="NO" id="OJa-Ym-ycr">
-                                        <rect key="frame" x="31" y="183" width="313" height="239"/>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="miracle_icon" translatesAutoresizingMaskIntoConstraints="NO" id="OJa-Ym-ycr">
+                                        <rect key="frame" x="31" y="183" width="313" height="299"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                     </imageView>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Your App" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="CXi-7V-ZNd">
@@ -187,7 +187,7 @@
     <resources>
         <image name="background" width="1280" height="720"/>
         <image name="background4" width="1920" height="1280"/>
-        <image name="iphone" width="1280" height="960"/>
+        <image name="miracle_icon" width="1178" height="1280"/>
         <image name="ruby" width="352" height="352"/>
     </resources>
 </document>
